@@ -1,0 +1,15 @@
+{
+  "name": "shakilahmmed/mdb-parser",
+  "description": "Package For Attendance Data Read",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Shakilahmmed\\MdbParser\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "ext-json": "*"
+  }
+}
